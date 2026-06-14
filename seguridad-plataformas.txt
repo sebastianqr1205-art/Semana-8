@@ -1,1 +1,19 @@
+1. No exponer datos personales.
+   - Evitar compartir identidades o ubicaciones en canales públicos.
+   - Resguardar la privacidad de los miembros de la comunidad.
 
+2. Proteger credenciales.
+   - Utilizar contraseñas robustas, únicas y secretas.
+   - Activar siempre el segundo factor de autenticación (2FA).
+
+3. Usar conexiones seguras.
+   - Conectarse únicamente desde redes privadas o mediante VPN.
+   - Evitar el uso de redes Wi-Fi públicas sin protección.
+
+4. Registrar accesos.
+   - Monitorear los inicios de sesión y actividades del sistema.
+   - Auditar periódicamente quién ingresa a la plataforma.
+
+5. Limitar acceso a información sensible.
+   - Aplicar el principio de menor privilegio para los usuarios.
+   - Restringir los datos críticos solo al personal autorizado.
