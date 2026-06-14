@@ -1,1 +1,1 @@
-
+uname -a: Muestra toda la información del sistema (nombre del sistema operativo, nombre de red del host, versión y fecha del kernel, y arquitectura del procesador).whoami: Muestra el nombre del usuario actual que está ejecutando la sesión en la terminal.
