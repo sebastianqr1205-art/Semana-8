@@ -1,1 +1,4 @@
-
+echo "1. Proteger informacion" > buenas-practicas.txt
+echo "2. No compartir datos" >> buenas-practicas.txt
+echo "3. Mantener software actualizado" >> buenas-practicas.txt
+cat buenas-practicas.txt
